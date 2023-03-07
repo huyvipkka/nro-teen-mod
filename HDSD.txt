@@ -1,0 +1,6 @@
+-Auto cộng chỉ số
+Nhập chỉ số theo dạng hp|ki|sd|giáp vào chiso.txt vào game chat chiso
+-Auto buff đậu
+chat time X để set time buff mỗi lần
+chat buff đậu để auto buff
+-Mặc định auto login
